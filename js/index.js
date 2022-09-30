@@ -20,7 +20,7 @@ $(function () {
 
     // 一些计算所需的变量
     var seekT, seekLoc, seekBarPos, cM, ctMinutes, ctSeconds, curMinutes, curSeconds, durMinutes, durSeconds, playProgress, bTime, nTime = 0
-    var musicImgsData = ['img/1.jpg', 'img/2.jpg', 'img/3.jpg', 'img/4.jpg','img/5.jpg','img/3.jpg'] // 图片地址数组
+    var musicImgsData = ['img/5.jpg', 'img/5.jpg', 'img/5.jpg', 'img/5.jpg','img/5.jpg','img/5.jpg'] // 图片地址数组
     var musicNameData = ['夜曲', '爱在西元前', '暗号', '给我一首歌的时间','搁浅','我不配']; // 歌曲名数组
     var artistNameData = ['周杰伦-夜曲', '周杰伦-爱在西元前', '周杰伦-暗号', '周杰伦-给我一首歌的时间','周杰伦-搁浅','周杰伦-我不配'] // 创作歌手数组
     var musicUrls = ['mp3/周杰伦-夜曲.mp3', 'mp3/周杰伦-爱在西元前.mp3', 'mp3/周杰伦-暗号.mp3', 'mp3/周杰伦-给我一首歌的时间.mp3','mp3/周杰伦-搁浅.mp3','mp3/周杰伦-我不配.mp3']; // 歌曲mp3数组
